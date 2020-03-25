@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{8FC17529-C617-4DEE-8D5A-6EB6C099734C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="InfColorPickerSample/ColorSelectedDelegate.cs">
+    <Files>
+      <File FileName="InfColorPickerSample/Main.cs" Line="12" Column="1" />
+      <File FileName="InfColorPickerSample/Main.cs" Line="15" Column="2" />
+      <File FileName="InfColorPickerSample/ViewController.cs" Line="23" Column="55" />
+      <File FileName="InfColorPickerSample/Main.storyboard" />
+      <File FileName="InfColorPickerSample/ColorSelectedDelegate.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="InfColorPickerSample" expanded="True">
+            <Node name="InfColorPickerSample" expanded="True">
+              <Node name="ColorSelectedDelegate.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.InfColorPickerSample automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.C780BEF5-8689-4AA0-8D47-3C494348D606" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
